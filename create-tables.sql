@@ -1,4 +1,4 @@
-USE OLAP_Database;
+USE TechStore;
 
 CREATE TABLE Clientes (
     id_cliente INT PRIMARY KEY,
