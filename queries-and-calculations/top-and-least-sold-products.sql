@@ -1,4 +1,4 @@
-USE TechStore;
+
 
 SELECT p.nombre AS Producto, SUM(v.cantidad) AS Total_Unidades,
        CASE
