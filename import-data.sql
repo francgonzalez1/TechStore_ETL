@@ -1,3 +1,5 @@
+USE TechStore;
+
 -- Importar datos a la tabla Clientes
 BULK INSERT Clientes
 FROM 'C:\Users\frang\TechStore_ETL\data\clientes.csv'
